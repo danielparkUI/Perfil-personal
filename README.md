@@ -4,7 +4,7 @@
 
 ## Captura de pantalla
 
-![Vista previa del perfil](image/foto-perfil.jpg)
+![Vista previa del perfil](perfil-personal.jpeg)
 
 ## Características principales
 
